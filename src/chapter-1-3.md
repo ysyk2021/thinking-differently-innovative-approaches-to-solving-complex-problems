@@ -1,4 +1,4 @@
-Introduction: Brief on How the Book Will Help Readers Develop Their Innovative Thinking Skills
+Brief on How the Book Will Help Readers Develop Their Innovative Thinking Skills
 ==============================================================================================
 
 Innovation is a critical component of success in today's fast-paced and ever-changing world. To thrive in this environment, individuals must be able to think differently and approach problems with creativity, flexibility, and open-mindedness.

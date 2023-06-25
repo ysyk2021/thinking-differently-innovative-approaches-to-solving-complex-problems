@@ -1,5 +1,4 @@
-Chapter 2: Breaking Down Assumptions and Biases: Strategies for Approaching Problems with an Open Mind
-======================================================================================================
+# Strategies for Approaching Problems with an Open Mind
 
 Assumptions and biases can limit our ability to approach problems with an open mind. They can prevent us from seeing the full picture and coming up with innovative solutions. This chapter will explore strategies for breaking down assumptions and biases in order to approach problems with an open mind.
 

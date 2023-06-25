@@ -1,5 +1,4 @@
-Chapter 2: Breaking Down Assumptions and Biases: The Role of Assumptions and Biases in Limiting Creative Thinking
-=================================================================================================================
+# The Role of Assumptions and Biases in Limiting Creative Thinking
 
 Assumptions and biases can limit our ability to think creatively and solve complex problems. In this chapter, we will explore the role of assumptions and biases in limiting creative thinking.
 

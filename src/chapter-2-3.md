@@ -1,5 +1,4 @@
-Chapter 1: Understanding the Creative Process: How to Apply Creative Thinking to Different Types of Problems
-============================================================================================================
+# How to Apply Creative Thinking to Different Types of Problems
 
 In today's world, problem-solving requires a different approach than in the past. Complex problems require creative thinking and innovative solutions. In this chapter, we will explore the creative process and how it can be applied to different types of problems.
 

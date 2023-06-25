@@ -1,5 +1,4 @@
-Chapter 6: Design Thinking and Human-Centered Approaches: Techniques for Applying These Approaches to Complex Problems
-======================================================================================================================
+# Techniques for Applying These Approaches to Complex Problems
 
 Design thinking and human-centered approaches are powerful methodologies for solving complex problems. In this chapter, we will explore techniques for applying these approaches to complex problems, including empathy mapping, journey mapping, and prototyping.
 

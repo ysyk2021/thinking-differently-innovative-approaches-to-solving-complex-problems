@@ -1,5 +1,4 @@
-Chapter 3: Collaborating and Building Teams: Techniques for Building Diverse and Effective Teams
-================================================================================================
+# Techniques for Building Diverse and Effective Teams
 
 Collaboration is key to innovation. In order to solve complex problems, it's important to build diverse and effective teams that can work together seamlessly. This chapter will explore techniques for building these types of teams.
 
