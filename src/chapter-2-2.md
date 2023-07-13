@@ -1,4 +1,4 @@
-Chapter 1: Understanding the Creative Process - Techniques for Generating New Ideas and Approaches
+Techniques for Generating New Ideas and Approaches
 ==================================================================================================
 
 Generating new ideas and approaches is a critical component of the creative process when solving complex problems. In this chapter, we'll explore techniques for generating ideas and approaches to tackle complex problems.
