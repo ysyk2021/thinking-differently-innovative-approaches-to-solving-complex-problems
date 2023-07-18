@@ -10,5 +10,4 @@ The book covers several essential topics such as the creative process, collabora
 
 Whether you're a student, a professional, or someone looking to make a positive impact in your community, the principles in this book can help you achieve your goals and make a difference. So, get ready to explore new ideas and approaches to problem-solving and unlock your potential for innovation and creativity.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
