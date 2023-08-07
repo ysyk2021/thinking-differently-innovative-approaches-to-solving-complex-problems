@@ -3,7 +3,7 @@ Examples of Innovative Approaches to Problem-Solving Using Technology
 
 In today's rapidly evolving technological landscape, harnessing the power of technology has become crucial for solving complex problems. This chapter explores various examples of innovative approaches to problem-solving that leverage cutting-edge technologies. These examples demonstrate how technology can be used to address challenges across different domains and pave the way for novel solutions.
 
-1. Artificial Intelligence (AI) for Healthcare
+1\. Artificial Intelligence (AI) for Healthcare
 ----------------------------------------------
 
 AI-based technologies hold immense potential in revolutionizing healthcare. For instance:
@@ -14,7 +14,7 @@ AI-based technologies hold immense potential in revolutionizing healthcare. For 
 
 * **Drug Discovery**: AI algorithms can sift through vast chemical and biological databases to identify potential drug candidates, significantly accelerating the process of drug discovery and development.
 
-2. Blockchain for Supply Chain Management
+2\. Blockchain for Supply Chain Management
 -----------------------------------------
 
 Blockchain technology offers transparency, traceability, and security in supply chain management. Some innovative applications include:
@@ -23,7 +23,7 @@ Blockchain technology offers transparency, traceability, and security in supply 
 
 * **Supply Chain Optimization**: Blockchain enables end-to-end visibility of the supply chain, enhancing efficiency and reducing costs. It allows stakeholders to track inventory, streamline logistics, and automate processes, leading to improved coordination and faster response times.
 
-3. Augmented Reality (AR) for Education and Training
+3\. Augmented Reality (AR) for Education and Training
 ----------------------------------------------------
 
 AR technology enhances learning experiences by overlaying digital content onto the real world. It has transformative applications in education and training:
@@ -32,7 +32,7 @@ AR technology enhances learning experiences by overlaying digital content onto t
 
 * **Skills Training**: AR provides immersive training experiences across various industries. For example, in healthcare, AR can simulate surgical procedures, enabling surgeons to practice without risk. In manufacturing, AR can guide assembly line workers step-by-step, improving efficiency and reducing errors.
 
-4. Internet of Things (IoT) for Smart Cities
+4\. Internet of Things (IoT) for Smart Cities
 --------------------------------------------
 
 The IoT connects everyday objects to the internet, creating smart cities that enhance residents' quality of life:
@@ -41,7 +41,7 @@ The IoT connects everyday objects to the internet, creating smart cities that en
 
 * **Traffic Management**: IoT sensors and data analytics enable real-time traffic monitoring and optimization. By collecting and analyzing data on traffic patterns, congestion, and accidents, smart cities can reduce travel time, improve road safety, and enhance overall transportation efficiency.
 
-5. Big Data Analytics for Business Optimization
+5\. Big Data Analytics for Business Optimization
 -----------------------------------------------
 
 Big data analytics empowers organizations to extract valuable insights from large volumes of data, driving informed decision-making and process optimization:

@@ -8,7 +8,7 @@ Understanding the Complexity of Problems
 
 Before diving into the techniques, it is crucial to have a clear understanding of the complexity of the problems being addressed. Complex problems often possess multiple interconnected factors, involve uncertainty, and require a holistic perspective. Recognizing the complexity will help guide the application of innovative approaches.
 
-1. Systems Thinking
+1\. Systems Thinking
 -------------------
 
 Systems thinking is a powerful tool for comprehending complex problems. It involves analyzing the interconnectedness and interdependencies of various components within a system. By adopting a systems thinking approach, individuals can gain insights into relationships, patterns, and feedback loops that impact the problem at hand.
@@ -21,7 +21,7 @@ Key techniques for applying systems thinking include:
 
 * **Recognizing Emergent Properties**: Pay attention to emergent properties that arise from the interactions of system components. These properties can significantly impact the problem and may necessitate different approaches to finding a solution.
 
-2. Design Thinking
+2\. Design Thinking
 ------------------
 
 Design thinking is a user-centric approach that focuses on understanding the needs and preferences of the end-users. It involves a systematic process of empathizing, defining, ideating, prototyping, and testing solutions. Design thinking encourages innovative problem-solving and fosters creativity.
@@ -34,7 +34,7 @@ Key techniques for applying design thinking include:
 
 * **Prototyping and Testing**: Create prototypes of potential solutions and gather feedback from users. Rapid prototyping allows for iterative refinement and ensures that the final solution effectively addresses the complex problem.
 
-3. Agile Methodology
+3\. Agile Methodology
 --------------------
 
 Agile methodology is an iterative and collaborative approach to problem-solving. It promotes flexibility, adaptability, and continuous improvement. By breaking complex problems into smaller, manageable tasks, it enables teams to quickly respond to changes and make progress incrementally.
@@ -47,7 +47,7 @@ Key techniques for applying agile methodology include:
 
 * **Regular Retrospectives**: Conduct regular retrospectives to reflect on the progress made, lessons learned, and opportunities for improvement. This technique ensures continuous learning and creates space for innovation.
 
-4. Breakthrough Thinking
+4\. Breakthrough Thinking
 ------------------------
 
 Breakthrough thinking involves challenging conventional assumptions and exploring unconventional solutions. It requires individuals to think beyond limitations and generate ideas that are radical, innovative, and transformative.
