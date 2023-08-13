@@ -1,0 +1,1 @@
+for the book "thinking differently innovative approaches to solving complex problems", write a chapter: "techniques for applying these approaches to complex problems".  Use Markdown format. Use English.
