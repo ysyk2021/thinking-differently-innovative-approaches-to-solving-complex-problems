@@ -3,7 +3,7 @@ How to Apply Creative Thinking to Different Types of Problems
 
 In this chapter, we will explore various techniques and strategies for applying creative thinking to solve different types of problems. Creative thinking is an essential skill that can be cultivated and harnessed to tackle complex issues in innovative ways. By adopting a creative mindset, individuals can approach problems from fresh perspectives, discover unique solutions, and overcome challenges with ingenuity.
 
-1. Understanding Problem Types
+1\. Understanding Problem Types
 ------------------------------
 
 Before diving into creative problem-solving techniques, it is crucial to have a clear understanding of the different types of problems we encounter. Problems can broadly be classified into the following categories:
@@ -20,7 +20,7 @@ Ill-defined problems lack clear problem statements or solution paths. They are o
 
 Complex problems involve intricate systems, numerous variables, and interdependencies. These might include environmental issues or designing large-scale projects. Creative thinking in complex problem-solving requires holistic thinking, breaking down the problem into manageable parts, and considering diverse perspectives.
 
-2. Cultivating a Creative Mindset
+2\. Cultivating a Creative Mindset
 ---------------------------------
 
 To effectively apply creative thinking, individuals must cultivate a mindset conducive to innovation. Here are some key principles to embrace:
@@ -37,7 +37,7 @@ Creative thinking involves questioning existing assumptions and beliefs. Be will
 
 Create an environment that encourages risk-taking, experimentation, and collaboration. Embrace diversity of thought and create space for constructive dissent. This will foster an atmosphere where creative ideas can flourish.
 
-3. Creative Problem-Solving Techniques
+3\. Creative Problem-Solving Techniques
 --------------------------------------
 
 Once you have developed a creative mindset, it's time to employ specific techniques to solve different problem types. Here are a few proven techniques to consider:
