@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [Explanation of the importance of innovative thinking in problem-solving](chapter-1-1.md)
   - [Overview of the benefits of thinking differently](chapter-1-2.md)
-  - [Brief on how the book will help readers develop their innovative thinking skills](chapter-1-3.md)
 - [Chapter 1: Understanding the Creative Process](chapter-2.md)
   - [Understanding the creative process and how it can be applied to problem-solving](chapter-2-1.md)
   - [Techniques for generating new ideas and approaches](chapter-2-2.md)
