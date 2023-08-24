@@ -1,4 +1,3 @@
-# The Role of Assumptions and Biases in Limiting Creative Thinking
 
 In this chapter, we will delve into the significant role that assumptions and biases play in limiting creative thinking when it comes to solving complex problems. We often rely on assumptions and fall prey to biases without even realizing it, thereby constraining our ability to think innovatively. By understanding and challenging these cognitive barriers, we can unlock our creative potential and explore fresh perspectives. Let's explore the detrimental impact of assumptions and biases on creative thinking and how we can overcome them.
 

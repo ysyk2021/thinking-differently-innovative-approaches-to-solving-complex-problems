@@ -1,5 +1,3 @@
-Understanding the Creative Process and How it Can be Applied to Problem-Solving
-========================================================================================
 
 In this chapter, we will explore the creative process and learn how it can be effectively applied to problem-solving. Creativity is a fundamental human ability that allows us to think differently, generate new ideas, and find innovative solutions to complex problems. By understanding the various stages of the creative process, individuals and organizations can enhance their problem-solving capabilities and foster a culture of innovation.
 

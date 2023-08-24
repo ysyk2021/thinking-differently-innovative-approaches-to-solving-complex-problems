@@ -1,5 +1,3 @@
-Chapter 1: Understanding the Creative Process
-=============================================
 
 In a rapidly changing world, creative thinking is more important than ever for problem-solving. In this chapter, we will explore the creative process and how it can be applied to different types of problems.
 

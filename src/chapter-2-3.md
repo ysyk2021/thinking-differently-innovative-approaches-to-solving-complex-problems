@@ -1,5 +1,3 @@
-How to Apply Creative Thinking to Different Types of Problems
-======================================================================
 
 In this chapter, we will explore various techniques and strategies for applying creative thinking to solve different types of problems. Creative thinking is an essential skill that can be cultivated and harnessed to tackle complex issues in innovative ways. By adopting a creative mindset, individuals can approach problems from fresh perspectives, discover unique solutions, and overcome challenges with ingenuity.
 

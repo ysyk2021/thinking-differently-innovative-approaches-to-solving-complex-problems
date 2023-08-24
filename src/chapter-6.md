@@ -1,5 +1,3 @@
-Chapter 5: Leveraging Technology and Innovation
-===============================================
 
 Technology and innovation have revolutionized the way we approach problem-solving. In this chapter, we will explore the role of technology and innovation in problem-solving, techniques for leveraging technology to support innovative thinking, and examples of innovative approaches to problem-solving using technology.
 

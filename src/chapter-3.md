@@ -1,5 +1,3 @@
-Chapter 2: Breaking Down Assumptions and Biases
-===============================================
 
 Assumptions and biases can limit our ability to think creatively and solve complex problems. In this chapter, we will explore the role of assumptions and biases in limiting creative thinking, techniques for identifying and breaking them down, and strategies for approaching problems with an open mind.
 
