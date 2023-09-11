@@ -1,3 +1,6 @@
+# Thinking Differently: Innovative Approaches to Solving Complex Problems
+
+Book Link: [https://zhengpublishing.com/thinking-differently-innovative-approaches-to-solving-complex-problems/](https://zhengpublishing.com/thinking-differently-innovative-approaches-to-solving-complex-problems/)
 
 In today's fast-paced world, traditional problem-solving methods may no longer be sufficient when it comes to tackling complex problems. That's where thinking differently comes in. By embracing new ideas and approaches, we can generate more effective solutions and make a positive impact in our personal and professional lives.
 
